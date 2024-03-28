@@ -1,0 +1,6 @@
+* set of instructions, follow them one by one:
+
+1> ssh-keygen then hit "Enter".
+2> add new public key to github account.
+3> clone repository with ssh link.
+4> you're good to go.
